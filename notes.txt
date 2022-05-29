@@ -1,0 +1,8 @@
+npm init -y
+npm i -D tailwindcss
+npx tailwindcss init
+   update tailwind config for srcs
+   update package json to run scripts
+   create html and css files
+npm run build 
+npm run watch
